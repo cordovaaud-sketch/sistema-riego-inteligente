@@ -1,0 +1,17 @@
+# Archivos generados automáticamente
+clima_*.csv
+
+# Archivos temporales de Excel/WPS
+~$*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
